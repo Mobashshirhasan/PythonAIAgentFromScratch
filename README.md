@@ -49,10 +49,10 @@ A smart, tool-using research assistant powered by LangChain and OpenAI/Anthropic
 
 📁 File Structure
     ```bash
-   - main.py              # Entry script
-   - tools.py             # Web, Wikipedia, and file-saving tools
-   - requirements.txt     # Dependencies
-   - research_output.txt  # Saved outputs
-   - .env                 # API keys
+   - main.py                # Entry script
+   - tools.py               # Web, Wikipedia, and file-saving tools
+   - requirements.txt       # Dependencies
+   - research_output.txt    # Saved outputs
+   - .env                   # API keys
 
 
