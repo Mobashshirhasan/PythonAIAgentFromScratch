@@ -18,7 +18,7 @@ A smart, tool-using research assistant powered by LangChain and OpenAI/Anthropic
 - [LangChain](https://www.langchain.com/)
 - [OpenAI GPT-4o](https://platform.openai.com/docs/models/gpt-4o)
 - [Anthropic Claude (optional)](https://www.anthropic.com/index/introducing-claude)
-- Python 3.8+
+- Python 3.10+
 - Pydantic
 - Dotenv
 
