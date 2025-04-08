@@ -44,11 +44,11 @@ A smart, tool-using research assistant powered by LangChain and OpenAI/Anthropic
    ANTHROPIC_API_KEY=your_anthropic_api_key (optional)
 
 🧪 Run the App
-    ```bash
+    
      - python main.py
 
 📁 File Structure
-    ```bash
+    
    - main.py                # Entry script
    - tools.py               # Web, Wikipedia, and file-saving tools
    - requirements.txt       # Dependencies
