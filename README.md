@@ -28,3 +28,31 @@ A smart, tool-using research assistant powered by LangChain and OpenAI/Anthropic
    ```bash
    git clone https://github.com/your-username/research-assistant-agent.git
    cd research-assistant-agent
+
+2. **Create a virtual environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   
+3. **Install dependencies**
+   ```bash
+    pip install -r requirements.txt
+   
+4. **Set up .env file**
+   ```bash
+   OPENAI_API_KEY=your_openai_api_key
+   ANTHROPIC_API_KEY=your_anthropic_api_key (optional)
+
+🧪 Run the App
+    ```bash
+  python main.py
+
+📁 File Structure
+    ```bash
+    main.py              # Entry script
+    tools.py             # Web, Wikipedia, and file-saving tools
+    requirements.txt     # Dependencies
+    research_output.txt  # Saved outputs
+    .env                 # API keys
+
+
