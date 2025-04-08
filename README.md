@@ -45,7 +45,7 @@ A smart, tool-using research assistant powered by LangChain and OpenAI/Anthropic
 
 🧪 Run the App
     
-     - python main.py
+      python main.py
 
 📁 File Structure
     
