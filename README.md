@@ -45,14 +45,14 @@ A smart, tool-using research assistant powered by LangChain and OpenAI/Anthropic
 
 🧪 Run the App
     ```bash
-    python main.py
+    - python main.py
 
 📁 File Structure
     ```bash
-    main.py              # Entry script
-    tools.py             # Web, Wikipedia, and file-saving tools
-    requirements.txt     # Dependencies
-    research_output.txt  # Saved outputs
-    .env                 # API keys
+   - main.py              # Entry script
+   - tools.py             # Web, Wikipedia, and file-saving tools
+   - requirements.txt     # Dependencies
+   - research_output.txt  # Saved outputs
+   - .env                 # API keys
 
 
