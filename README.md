@@ -13,7 +13,7 @@ A smart, tool-using research assistant powered by LangChain and OpenAI/Anthropic
 - 📚 Queries Wikipedia for relevant info
 - 💾 Saves output to `research_output.txt`
 
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 - [LangChain](https://www.langchain.com/)
 - [OpenAI GPT-4o](https://platform.openai.com/docs/models/gpt-4o)
