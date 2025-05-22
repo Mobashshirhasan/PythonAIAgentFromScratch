@@ -49,7 +49,7 @@ query = input("What can I help you research? ")
 raw_response = agent_executor.invoke({"query": query})
 
 try:
-    # Debugging: Print the raw response to understand its structure
+     # Debugging: Print the raw response to understand its structure
     print("Raw Response:", raw_response)
 
     # Ensure raw_response contains the expected structure
